@@ -1,0 +1,198 @@
+#email{
+    font-size: 130%;
+    margin-left: 20%;
+    margin-top: 30%;
+    height: 30px;
+    width: 60%;
+    border-radius: 20px;
+    border: none;
+    background-color: #05b6e3;
+}
+body{
+    background-color: #7f878a;
+    margin: 0;
+}
+#password{
+    font-size: 130%;
+    margin-left: 20%;
+    margin-top: 2%;
+    height: 30px;
+    width: 60%;
+    border-radius: 20px;
+    border: none;
+    background-color: #05b6e3;
+}
+.RegisterForm{
+    background-color: #d0d7d9;
+    width: 30%;
+    height: 600px;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+#name{
+    font-size: 130%;
+    margin-left: 20%;
+    margin-top: 2%;
+    height: 30px;
+    width: 60%;
+    border-radius: 20px;
+    border: none;
+    background-color: #05b6e3;
+}
+.LoginButton{
+    margin-left: 35%;
+    width: 30%;
+    height: 30px;
+    margin-top: 2%;
+    border-radius: 40px;
+}
+.NoAccount{
+    margin-left: 30%;
+    text-decoration: none;
+    color: #000000;
+
+}
+
+
+
+#HeaderText{
+    margin-left: 13%;
+    color: #5d5e5e;
+
+    padding-top: 0;
+    display: inline;
+
+}
+header{
+    background-color: #05b6e3;
+
+    height: 60px;
+    margin-bottom: 10%;
+
+}
+
+#cabinet{
+    width: 3%;
+    border-radius: 50px;
+    margin-left: 10%;
+
+}
+#login{
+    margin-left: 6%;
+    text-decoration: none;
+    color: black;
+    font-size: 150%;
+}
+
+.CreateArticle{
+    text-decoration: none;
+    background-color: #4d7ea8;
+    border-radius: 20px;
+    margin-left: 40%;
+    color: black;
+    padding: 2%;
+    font-size: 150%;
+}
+
+.CreateForm{
+    margin-left: 30%;
+}
+
+#CreateName{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 10%;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: black 1px 1px 1px 1px;
+}
+#CreateTheme{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 1%;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: black 1px 1px 1px 1px;
+}
+#CreateArt{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 1%;
+    border-radius: 10px;
+    box-shadow: black 1px 1px 1px 1px;
+}
+#CreateAuthors{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 1%;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: black 1px 1px 1px 1px;
+}
+
+.error{
+    margin-left: 35%;
+    background-color: crimson;
+    width: 30%;
+    text-align: center;
+}
+
+
+.ArticleList{
+    margin-bottom: 1%;
+    margin-left: 10%;
+
+    width: 80%;
+    height: 150px;
+    background-color: #bfbaba;
+    list-style: none;
+    border-radius: 30px;
+    font-size: 300%;
+    padding: 2%;
+}
+#ArticleButton{
+    margin-left: 80%;
+    width: 20%;
+    height: 40px;
+    background-color: #bd2227;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+#DecorationNone{
+    text-decoration: none;
+    color: black;
+}
+
+
+.ArticleName{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 500%;
+}
+
+#article{
+    font-size: 200%;
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.esc{
+    font-size: 200%;
+    display: inline;
+    margin-left: 5%;
+    text-decoration: none;
+    color: black;
+}
+
+.authors{
+    font-size: 300%;
+    margin-top: 5%;
+}
+
+
+#cabinetText{
+    text-align: center;
+    font-size: 200%;
+}
